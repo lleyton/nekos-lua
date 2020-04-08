@@ -1,7 +1,8 @@
 package = "nekos-lua-cqueues"
 version = "1.0.0-1"
 source = {
-   url = "git://github.com/lleyton/nekos-lua-cqueues"
+   url = "git://github.com/lleyton/nekos-lua-cqueues",
+   tag = "v1.0.0"
 }
 description = {
    summary = "A nekos.life wrapper for cqueues.",
