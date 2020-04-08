@@ -38,8 +38,7 @@ return [[
     "eroNeko": "/img/eron",
     "eroYuri": "/img/eroyuri",
     "cumArts": "/img/cum_jpg",
-    "blowJob": "/img/blowjob",
-    "pussyGif": "/img/pussy"
+    "blowJob": "/img/blowjob"
   },
   "sfw": {
     "tickle": "/img/tickle",
@@ -65,7 +64,11 @@ return [[
     "smug": "/img/smug",
     "baka": "/img/baka",
     "woof": "/img/woof",
-    "spoiler": "/spoiler"
+    "spoiler": "/spoiler",
+    "wallpaper": "/img/wallpaper",
+    "goose": "/img/goose",
+    "gecg": "/img/gecg",
+    "avatar": "/img/avatar"
   }
 }
 ]]
